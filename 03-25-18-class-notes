@@ -1,0 +1,21 @@
+03-25-18 class notes
+
+
+Array
+List
+ArrayList
+
+Array vs ArrayList
+Array has fixed size during the creation. But ArrayList doesn’t have fixed size. That means it can grow dynamically.
+
+Java api: https://docs.oracle.com/javase/7/docs/api/java/util/List.html
+
+DS: Coming in Next Week
+ArrayList
+LinkedList
+Stack
+Queue
+Graph
+Hash Map/ Hash Table
+Tree
+
